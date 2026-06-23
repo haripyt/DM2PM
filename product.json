@@ -1,0 +1,28 @@
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Shome",
+  "name": "Shome Shoes for men",
+  "image": "https://template.hasthemes.com/shome/shome/assets/img/shop/1.webp",
+  "description": " Shoes for men",
+  "aggregateRating": {
+    "@type": "aggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "234"
+  }
+}
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "hpp",
+  "name": "uyiuy",
+  "image": "uyiyuiu",
+  "description": "uyiuiuyiuiy",
+  "aggregateRating": {
+    "@type": "aggregateRating",
+    "ratingValue": "4",
+    "reviewCount": "rtrtr"
+  }
+}
+ </script>
